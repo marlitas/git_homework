@@ -7,5 +7,4 @@
 - More drawing with note taking.
 
 ## Some Quotes on Learning
-- Be humble, be teachable and always keep learning.
 - Making mistakes simply means you are learning faster.
